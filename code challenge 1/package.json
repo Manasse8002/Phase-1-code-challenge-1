@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Phase 1 code challenge 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student",
+    "grade",
+    "generator",
+    "speed",
+    "detector",
+    "net",
+    "salary",
+    "calculator"
+  ],
+  "author": "Manasse",
+  "license": "ISC"
+}
