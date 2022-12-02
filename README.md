@@ -1,5 +1,7 @@
-TITTLE OF THE PROJECT:WEEK 1 CODE CHALLENGE 
-DESCRIPTION : I will be working on ;
+TITTLE OF THE PROJECT:WEEK 1 CODE CHALLENGE
+
+
+DESCRIPTION : I will be working on how to design systems that can make work easier for people when they need to (`calculate their grades,check their speed and calculate their salary`)The below solutions calculate for them and give back to the respondent the answers when he types their"marks,speed or salary
   
   CHALLENGE 1 : Student grade generator
   using your terminal clone this repository to your machine
