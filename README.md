@@ -3,6 +3,9 @@ TITTLE OF THE PROJECT:WEEK 1 CODE CHALLENGE
 
 DESCRIPTION : I will be working on how to design systems that can make work easier for people when they need to (`calculate their grades,check their speed and calculate their salary`)The below solutions calculate for them and give back to the respondent the answers when he types their"marks,speed or salary
   
+  !Now let`s put it to practice !!
+  
+  
   CHALLENGE 1 : Student grade generator
   using your terminal clone this repository to your machine
   In this first challenge you open my index.js where you find the code 
